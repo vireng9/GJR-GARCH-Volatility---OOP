@@ -28,7 +28,7 @@ This project showcases:
 ## Author
 
 **Viren Ghaghada**  
-[LinkedIn](https://www.linkedin/in/virenghaghada) | [vireng9@yahoo.com](mailto:vireng9@yahoo.com) | [GitHub](https://www.github.com/Vireng9)  
+[LinkedIn](https://www.linkedin/in/virenghaghada) | [vireng9@yahoo.com](mailto:vireng9@yahoo.com) | [GitHub](https://www.github.com/Vireng9) | [My Portfolio](https://vireng9.github.io/)  
 
 ## Disclaimer
 This project is for educational and research purpose only. It should not be considered as a financial advice or a production-ready trading system.
